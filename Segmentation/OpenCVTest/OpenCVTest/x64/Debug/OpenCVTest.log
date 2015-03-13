@@ -1,0 +1,18 @@
+﻿Build started 04-12-2014 16:25:52.
+     1>Project "M:\Study-Fall14\CSCI574\Homeworks\HW2\OpenCVTest\OpenCVTest\OpenCVTest.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\OpenCVTest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         OpenCVTest.vcxproj -> M:\Study-Fall14\CSCI574\Homeworks\HW2\OpenCVTest\x64\Debug\OpenCVTest.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\OpenCVTest.unsuccessfulbuild".
+         Touching "x64\Debug\OpenCVTest.lastbuildstate".
+     1>Done Building Project "M:\Study-Fall14\CSCI574\Homeworks\HW2\OpenCVTest\OpenCVTest\OpenCVTest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15
