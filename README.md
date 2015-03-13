@@ -1,2 +1,2 @@
 # CSCI574-Computer-Vision
-Assi
+Assignments of Computer Vision course taken under Prof. Ram Nevatia @ USC in Fall2014
