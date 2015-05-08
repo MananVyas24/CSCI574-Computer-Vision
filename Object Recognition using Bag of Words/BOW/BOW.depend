@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1416895682 source:m:\study-fall14\csci574\homeworks\hw5\bow\main.cpp
+	<opencv2/nonfree/features2d.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<vector>
+	<iostream>
+	<math.h>
+
+1416286652 source:m:\study-fall14\csci574\homeworks\hw5\bow\localfeatures.cpp
+	"LocalFeatures.h"
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<vector>
+	<opencv2/core/core.hpp>
+	<opencv2/core/core_c.h>
+	<opencv2/nonfree/nonfree.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/imgproc/types_c.h>
+	<opencv2/legacy/legacy.hpp>
+
+1416284814 m:\study-fall14\csci574\homeworks\hw5\bow\localfeatures.h
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<string>
+	<fstream>
+	<vector>
+	<opencv2/core/core.hpp>
+	<opencv2/core/core_c.h>
+	<opencv2/nonfree/nonfree.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/imgproc/types_c.h>
+	<opencv2/legacy/legacy.hpp>
+
